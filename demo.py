@@ -1,3 +1,4 @@
+#adding sample code
 import pygame as pg
 from modules import statics as st
 from modules.statics import *
